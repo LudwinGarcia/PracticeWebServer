@@ -1,0 +1,7 @@
+- Esta pagina contiene el ejemplo de como crear el web service.
+	http://www.nosinmiubuntu.com/como-crear-servicios-web-php/
+
+
+- Esta pagina contine los ejemplos de los tipos de conecciones 
+- que se pude realizar por medio de php a las BDD.
+	http://www.hermosaprogramacion.com/2014/07/php-mysql-conectar-como.html
